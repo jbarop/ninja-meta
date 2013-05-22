@@ -1,0 +1,6 @@
+[submodule "ninja-framework"]
+	path = ninja-framework
+	url = git@github.com:reyez/ninja.git
+[submodule "ninja-appengine"]
+	path = ninja-appengine
+	url = git@github.com:reyez/ninja-appengine.git
