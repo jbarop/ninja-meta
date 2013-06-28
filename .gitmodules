@@ -4,3 +4,6 @@
 [submodule "ninja-appengine"]
 	path = ninja-appengine
 	url = git@github.com:reyez/ninja-appengine.git
+[submodule "ninja-ebean"]
+	path = ninja-ebean
+	url = git@github.com:ninjaframework/ninja-ebean.git

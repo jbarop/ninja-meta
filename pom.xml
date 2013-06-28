@@ -15,7 +15,8 @@
 
   <modules>
     <module>ninja-framework</module>
-    <module>ninja-appengine</module>     
+    <module>ninja-appengine</module>
+    <module>ninja-ebean</module>     
   </modules>
 
 </project>
